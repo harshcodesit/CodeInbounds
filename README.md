@@ -36,7 +36,7 @@ survey screen as shown in the sample image above.
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/repository-name.git
+    https://github.com/harshcodesit/CodeInbounds.git
     ```
 2. Install dependencies:
     ```bash
