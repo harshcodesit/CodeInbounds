@@ -1,0 +1,14 @@
+.gold {
+    color: goldenrod;
+}
+#star{
+    font-weight: 900;
+    font-size: xx-large;
+    letter-spacing: 10px;
+    
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

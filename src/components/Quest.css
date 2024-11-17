@@ -1,0 +1,29 @@
+.questContainer{
+
+    justify-content: center;
+    align-items: center;
+}
+
+.para{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btnContainer{
+    
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 70px;
+}
+button {
+    background: none;
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
+textarea{
+    margin-left: 50px;
+    height: 150px;
+    width: 505px;
+}
